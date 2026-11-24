@@ -53,7 +53,7 @@ e = Error term
 - questionnaire.md — Full research questionnaire (Sections A-E)
 - sample_data.csv — Pilot / demo dataset for illustration
 - analysis.py — Regression analysis code for the model above
-- proposal.pdf — Full research proposal (US Writing Sample version, 2027)
+- proposal.md — Full research proposal (US Writing Sample version, 2027)
 
 ## How to Run the Analysis
 pip install pandas statsmodels
